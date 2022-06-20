@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Rename-PC:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea48a656-ee23-4d4b-a94f-998ebfa40ae9" name="Changes" comment="new">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Rename_PC_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CANPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChoiceTheControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DomainConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FormRename.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LIbrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MacAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StartComandRenamePC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StartProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ViewNamePCForUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WinVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rename-PC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Rename-PC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rename-PC/GUNPU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rename-PC/GUNPU.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rename-PC/MTOU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rename-PC/MTOU.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rename-PC/RenamePC$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rename-PC/RenamePC$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rename-PC/RenamePC$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rename-PC/RenamePC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUNPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUNPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MTOU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MTOU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RenamePC.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="0c300fab-ef6d-429a-995c-4eda2ba1f8a1" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="21831tuXgZK316oa0DkKurKvFWe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Ren&amp;Con-AD/Rename-PC&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Програми\JDK\Java_Code\Rename-PC\src" />
+      <recent name="D:\Програми\JDK\Java_Code\Rename-PC\src\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProgramConnection">
+    <configuration name="ProgramConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramConnection" />
+      <module name="Rename-PC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenamePC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RenamePC" />
+      <module name="Rename-PC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProgramConnection" />
+        <item itemvalue="Application.RenamePC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea48a656-ee23-4d4b-a94f-998ebfa40ae9" name="Changes" comment="" />
+      <created>1637308677449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637308677449</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
